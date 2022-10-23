@@ -80,3 +80,4 @@
 # projects I'm watching
 
 - [Hyprland](https://github.com/hyprwm/Hyprland)
+- [Podverse](https://podverse.fm/)
