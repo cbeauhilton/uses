@@ -76,7 +76,7 @@
 # phones
 
 - Google Pixel 2 XL (personal)
-- iPhone 
+- iPhone (whichever one work provides)
 
 
 # cars
