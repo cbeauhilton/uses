@@ -29,6 +29,7 @@
 - [Tailscale](https://tailscale.com/)
 - [Anki](https://apps.ankiweb.net/)
 - [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp)
+- [Bitwarden](https://bitwarden.com/)
 
 
 # Mac-specific software
@@ -42,6 +43,19 @@
 - Font: [IBM Plex](https://www.ibm.com/plex/)
 - Colors: Selenized/[Enfocado](https://github.com/wuelnerdotexe/vim-enfocado)
 - Prompt: [Starship](https://starship.rs/)
+
+
+# SaaS
+
+- [Vercel](https://vercel.com/)
+- [GitHub Actions](https://github.com/features/actions)
+
+
+# reference
+
+- [HemOnc.org](https://hemonc.org/wiki/Main_Page)
+- [vimbook.org](https://www.vimbook.org/)
+- [Chemocare](https://chemocare.com/)
 
 
 # phone
@@ -59,7 +73,6 @@
 - Lenovo Thinkpad X220
 
 
-
 # phones
 
 - Google Pixel 2 XL (personal)
@@ -70,6 +83,7 @@
 
 - Toyota Prius Three 2013
 - Honda Pilot 2009
+
 
 # wearables
 
