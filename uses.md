@@ -60,10 +60,19 @@
 
 # phone
 
+- [Snipd](https://www.snipd.com/)
+
+
+# phone (Android)
+
 - [KISS Launcher](https://kisslauncher.com/)
 - [Arcticons](https://github.com/Donnnno/Arcticons)
 - [NewPipe](https://newpipe.net/)
-- [Snipd](https://www.snipd.com/)
+
+
+# phone (iOS)
+
+- [Working Copy]()
 
 
 # computers
@@ -91,7 +100,7 @@
 - backpack: [Peak Design Everyday Backpack (30L, black)](https://www.peakdesign.com/collections/all-bags/products/everyday-backpack)
 
 
-# projects I'm watching
+# software projects I'm watching
 
 - [Hyprland](https://github.com/hyprwm/Hyprland)
 - [Podverse](https://podverse.fm/)
