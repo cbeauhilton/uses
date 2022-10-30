@@ -1,7 +1,12 @@
-<script src="https://code.iconify.design/iconify-icon/1.0.1/iconify-icon.min.js"></script>
-<iconify-icon icon="simple-icons:neovim"></iconify-icon>
 
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/neovim.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/archlinux.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/openbsd.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/neovim.svg" />
+
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/zotero.svg" />
+
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/obsidian.svg" />
 
 
 # operating systems
@@ -110,3 +115,8 @@
 
 - [Hyprland](https://github.com/hyprwm/Hyprland)
 - [Podverse](https://podverse.fm/)
+
+
+
+<script src="https://code.iconify.design/iconify-icon/1.0.1/iconify-icon.min.js"></script>
+<iconify-icon icon="logos:neovim"></iconify-icon>
