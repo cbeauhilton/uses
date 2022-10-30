@@ -1,3 +1,6 @@
+<script src="https://code.iconify.design/iconify-icon/1.0.1/iconify-icon.min.js"></script>
+<iconify-icon icon="simple-icons:neovim"></iconify-icon>
+
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/neovim.svg" />
 
 
