@@ -1,3 +1,6 @@
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/neovim.svg" />
+
+
 # operating systems
 
 - [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) (daily driver)
