@@ -1,29 +1,20 @@
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/neovim.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/archlinux.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/openbsd.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/neovim.svg" />
-
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/zotero.svg" />
-
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/obsidian.svg" />
-
-
 # operating systems
 
-- [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) (daily driver)
-- [OpenBSD](https://www.openbsd.org/) (server)
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/archlinux.svg" /> [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) (daily driver)
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/openbsd.svg" /> [OpenBSD](https://www.openbsd.org/) (server)
 - [macOS](https://www.apple.com/macos/) (most of the hospital stuff works better on macOS)
 
 
 # software
 
-- [Lunarvim](https://www.lunarvim.org/)
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/neovim.svg" />
+ [Lunarvim](https://www.lunarvim.org/) 
 - [dwm](https://dwm.suckless.org/)
 - [kitty](https://sw.kovidgoyal.net/kitty/)
 - [Atuin](https://github.com/ellie/atuin)
-- [Zotero](https://www.zotero.org/)
-- [Obsidian](https://obsidian.md/)
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/zotero.svg" /> [Zotero](https://www.zotero.org/)
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/obsidian.svg" /> [Obsidian](https://obsidian.md/)
 - [Pagecrypt](https://github.com/Greenheart/pagecrypt)
 - [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
 - [Hugo](https://gohugo.io/)
