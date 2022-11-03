@@ -3,30 +3,30 @@
 
 - <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/archlinux.svg" /> [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) (daily driver)
 - <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/openbsd.svg" /> [OpenBSD](https://www.openbsd.org/) (server)
-- [macOS](https://www.apple.com/macos/) (most of the hospital stuff works better on macOS)
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/macos.svg" />[macOS](https://www.apple.com/macos/) (most of the hospital stuff works better on macOS)
 
 
 # software
 
 - <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/neovim.svg" />
  [Lunarvim](https://www.lunarvim.org/) 
-- [dwm](https://dwm.suckless.org/)
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/dwm.svg" /> [dwm](https://dwm.suckless.org/)
 - [kitty](https://sw.kovidgoyal.net/kitty/)
 - [Atuin](https://github.com/ellie/atuin)
 - <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/zotero.svg" /> [Zotero](https://www.zotero.org/)
 - <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/obsidian.svg" /> [Obsidian](https://obsidian.md/)
 - [Pagecrypt](https://github.com/Greenheart/pagecrypt)
 - [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
-- [Hugo](https://gohugo.io/)
-- [Quartz](https://github.com/jackyzha0/quartz)
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/hugo.svg" /> [Hugo](https://gohugo.io/)
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/hugo.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/obsidian.svg" /> [Quartz](https://github.com/jackyzha0/quartz)
 - [Zathura](https://pwmt.org/projects/zathura/)
-- [Spotify](https://open.spotify.com/)
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/spotify.svg" /> [Spotify](https://open.spotify.com/)
 - [Raindrop.io](https://raindrop.io/)
-- [Giscus](https://github.com/giscus/giscus)
-- [Datasette](https://datasette.io/)
-- [Slidev](https://github.com/slidevjs/slidev)
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/github.svg" /> [Giscus](https://github.com/giscus/giscus)
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/sqlite.svg" /> [Datasette](https://datasette.io/)
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/vuedotjs.svg" />[Slidev](https://github.com/slidevjs/slidev)
 - [VisiData](https://github.com/saulpw/visidata)
-- [SQLModel](https://github.com/tiangolo/sqlmodel)
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/postgresql.svg" /> [SQLModel](https://github.com/tiangolo/sqlmodel)
 - [jq](https://github.com/stedolan/jq)
 - [Tailscale](https://tailscale.com/)
 - [Anki](https://apps.ankiweb.net/)
@@ -42,15 +42,15 @@
 
 # aesthetics (computer)
 
-- Font: [IBM Plex](https://www.ibm.com/plex/)
+- Font: <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/ibm.svg" /> [IBM Plex](https://www.ibm.com/plex/)
 - Colors: Selenized/[Enfocado](https://github.com/wuelnerdotexe/vim-enfocado)
 - Prompt: [Starship](https://starship.rs/)
 
 
 # SaaS
 
-- [Vercel](https://vercel.com/)
-- [GitHub Actions](https://github.com/features/actions)
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/vercel.svg" /> [Vercel](https://vercel.com/)
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/github.svg" /> [GitHub Actions](https://github.com/features/actions)
 
 
 # reference
@@ -79,21 +79,21 @@
 
 # computers
 
-- Lenovo Thinkpad T14s
-- Macbook Pro M1
-- Lenovo Thinkpad X220
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/lenovo.svg" /> Lenovo Thinkpad T14s
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/apple.svg" /> Macbook Pro M1
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/lenovo.svg" /> Lenovo Thinkpad X220
 
 
 # phones
 
-- Google Pixel 2 XL (personal)
-- iPhone (whichever one work provides)
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/google.svg" /> Google Pixel 2 XL (personal)
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/apple.svg" /> iPhone (whichever one work provides)
 
 
 # cars
 
-- Toyota Prius Three 2013
-- Honda Pilot 2009
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/toyota.svg" /> Toyota Prius Three 2013
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/honda.svg" /> Honda Pilot 2009
 
 
 # wearables
