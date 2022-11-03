@@ -3,7 +3,7 @@
 
 - <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/archlinux.svg" /> [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) (daily driver)
 - <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/openbsd.svg" /> [OpenBSD](https://www.openbsd.org/) (server)
-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/macos.svg" />[macOS](https://www.apple.com/macos/) (most of the hospital stuff works better on macOS)
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/macos.svg" /> [macOS](https://www.apple.com/macos/) (most of the hospital stuff works better on macOS)
 
 
 # software
@@ -24,7 +24,7 @@
 - [Raindrop.io](https://raindrop.io/)
 - <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/github.svg" /> [Giscus](https://github.com/giscus/giscus)
 - <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/sqlite.svg" /> [Datasette](https://datasette.io/)
-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/vuedotjs.svg" />[Slidev](https://github.com/slidevjs/slidev)
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/vuedotjs.svg" /> [Slidev](https://github.com/slidevjs/slidev)
 - [VisiData](https://github.com/saulpw/visidata)
 - <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/postgresql.svg" /> [SQLModel](https://github.com/tiangolo/sqlmodel)
 - [jq](https://github.com/stedolan/jq)
@@ -106,10 +106,3 @@
 
 - [Hyprland](https://github.com/hyprwm/Hyprland)
 - [Podverse](https://podverse.fm/)
-
-
-
-<script src="https://code.iconify.design/iconify-icon/1.0.1/iconify-icon.min.js"></script>
-
-
-Q<iconify-icon icon="logos:neovim"></iconify-icon>
